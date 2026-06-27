@@ -1,8 +1,8 @@
 import { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import { motion, useReducedMotion } from "framer-motion";
-import heroVideo from "../assets/Imagine_an_infinite_futuristic_highway_suspended_in_space.____Instead_of_cars,_glowing_JavaScript,_R_seed569560492 (1).mp4";
-import orbitVideo from "../assets/A_futuristic_React_developer_workspace_with_floating_holographic_job_cards,_glowing_React_and_JavaSc_seed3326320420.mp4";
+import heroVideo from "../assets/Create_a_premium_futuristic_website_background_video_for_a_React_Developer_Job_Platform.____Color_pa_seed964603715.mp4";
+import orbitVideo from "../assets/Imagine_an_infinite_futuristic_highway_suspended_in_space.____Instead_of_cars,_glowing_JavaScript,_R_seed569560492 (1).mp4";
 
 /* Animation variants */
 const containerVariants = {
